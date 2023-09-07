@@ -1,0 +1,11 @@
+{
+  "version": "v1.0.0",
+  "notes": "ERP Version",
+  "pub_date": "2023-09-07T19:25:57Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "Content of ERP_1.0.0_x64_zh-CN.msi.sig",
+      "url": "http://192.168.0.170:808/static/app/ERP_1.0.0_x64_zh-CN.msi.zip"
+    }
+  }
+}
