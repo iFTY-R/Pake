@@ -12,7 +12,7 @@
       "externalBin": [],
       "longDescription": "",
       "resources": ["app/erp/erp_256.ico"],
-      "shortDescription": "",
+      "shortDescription": "ERP运营管理系统",
       "targets": ["msi","updater"],
       "windows": {
         "certificateThumbprint": null,

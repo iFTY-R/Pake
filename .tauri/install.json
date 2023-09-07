@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "notes": "ERP Version",
   "pub_date": "2023-09-07T19:25:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "Content of ERP_1.0.0_x64_zh-CN.msi.sig",
-      "url": "http://192.168.0.170:808/static/app/ERP_1.0.0_x64_zh-CN.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRGUyeHlWb3k4c1FKZ3Q4SGhwODZBUWtlYWUvdVoveFhTby80Rk92cHdrNWRCckFTaGpqdWpxaG44THlIbGVlY1pWWTJNVVptcnlteGhWWWROd2FmTjlvaUJDMzNrM3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0MDc5NzkxCWZpbGU6RVJQXzEuMC4xX3g2NF96aC1DTi5tc2kuemlwCkRDemxDNmhmRGpUSldpdktmUDlkZkdTeTUwaWR6c1N0TzVIMm5MVVhPVDFWenF0Rnk1ZTNQWGprNEpTRGhUd0pWbnpTVU1xT0QybEJRR1JlU0lrUkJ3PT0K",
+      "url": "https://192.168.0.170/static/app/ERP_1.0.1_x64_zh-CN.msi.zip"
     }
   }
 }
