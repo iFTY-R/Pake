@@ -3,7 +3,7 @@
     {
       "url": "http://192.168.0.170/erp",
       "transparent": false,
-      "fullscreen": true,
+      "fullscreen": false,
       "width": 1200,
       "height": 780,
       "resizable": true,

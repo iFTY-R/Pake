@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.1",
+  "version": "v1.0.2",
   "notes": "ERP Version",
-  "pub_date": "2023-09-07T19:25:57Z",
+  "pub_date": "2023-09-08T19:25:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRGUyeHlWb3k4c1FKZ3Q4SGhwODZBUWtlYWUvdVoveFhTby80Rk92cHdrNWRCckFTaGpqdWpxaG44THlIbGVlY1pWWTJNVVptcnlteGhWWWROd2FmTjlvaUJDMzNrM3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0MDc5NzkxCWZpbGU6RVJQXzEuMC4xX3g2NF96aC1DTi5tc2kuemlwCkRDemxDNmhmRGpUSldpdktmUDlkZkdTeTUwaWR6c1N0TzVIMm5MVVhPVDFWenF0Rnk1ZTNQWGprNEpTRGhUd0pWbnpTVU1xT0QybEJRR1JlU0lrUkJ3PT0K",
-      "url": "https://192.168.0.170/static/app/ERP_1.0.1_x64_zh-CN.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRGUyeHlWb3k4c2RhMTlielF5TSswU1JTSURLZ3J0K2wxdTgzZHRFQjJyTkRUVUZZNHIvWERsck5ZdUdhOVQ2Z2xNTWJFYUxKVzVxenFJcmg1NnVKRWk4L0RaVkpzNEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0MTQ5MTQ3CWZpbGU6RVJQXzEuMC4yX3g2NF96aC1DTi5tc2kuemlwCmU0dysxTWNWeFgxemtKNnp1eDE5QS9Cb09WUXMvbVQ0RDlYYjg3dlQ5MjhrRmFGS1lidmhqZm1uanhWT2RhMW4yUUY5SmJ5anhvcUM4V2FLL05QZkNRPT0K",
+      "url": "https://192.168.0.170/static/app/ERP_1.0.2_x64_zh-CN.msi.zip"
     }
   }
 }

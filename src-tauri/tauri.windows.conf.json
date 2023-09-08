@@ -18,6 +18,9 @@
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
         "timestampUrl": "",
+        "webviewInstallMode": {
+          "type": "embedBootstrapper"
+        },
         "wix": {
           "language": ["zh-CN"],
           "template": "assets/main.wxs"
