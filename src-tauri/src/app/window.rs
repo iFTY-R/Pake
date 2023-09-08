@@ -20,7 +20,7 @@ pub fn get_window(app: &mut App, config: PakeConfig, _data_dir: PathBuf) -> Wind
     };
 
     let mut window_builder = WindowBuilder::new(app, "pake", url)
-        .title("")
+        .title(&window_config.title)
         .user_agent(user_agent)
         .visible(false) // Prevent initial shaking
         .resizable(window_config.resizable)
@@ -32,6 +32,10 @@ pub fn get_window(app: &mut App, config: PakeConfig, _data_dir: PathBuf) -> Wind
         .initialization_script(include_str!("../inject/style.js"))
         //This is necessary to allow for file injection by external developers for customization purposes.
         .initialization_script(include_str!("../inject/custom.js"));
+
+    if window_config.center {
+        window_builder = window_builder.center()
+    }
 
     #[cfg(target_os = "macos")]
     {

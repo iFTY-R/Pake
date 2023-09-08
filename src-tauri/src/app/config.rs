@@ -9,6 +9,8 @@ pub struct WindowConfig {
     pub height: f64,
     pub resizable: bool,
     pub url_type: String,
+    pub center: bool,
+    pub title: String,
 }
 
 #[derive(Debug, Deserialize)]
