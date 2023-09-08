@@ -7,7 +7,9 @@
       "width": 1200,
       "height": 780,
       "resizable": true,
-      "url_type": "web"
+      "url_type": "web",
+      "center": true,
+      "title": "ERP 运营管理系统"
     }
   ],
   "user_agent": {
