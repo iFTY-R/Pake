@@ -2,8 +2,8 @@
   "tauri": {
     "bundle": {
       "icon": [
-        "F:\\ifty_cloud\\CodePro\\tauri-pro\\Pake\\src-tauri\\app/erp/erp_256.ico",
-        "F:\\ifty_cloud\\CodePro\\tauri-pro\\Pake\\src-tauri\\app/erp/erp.ico"
+        "app/erp/erp_256.ico",
+        "app/erp/erp.ico"
       ],
       "identifier": "com.yzqd.erp",
       "active": true,
